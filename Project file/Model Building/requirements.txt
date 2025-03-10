@@ -1,0 +1,4 @@
+Flask
+flask-cors
+numpy
+pickle5  # If using Python 3.8+, else pickle is built-in
